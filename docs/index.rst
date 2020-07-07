@@ -62,7 +62,7 @@ Presentations
 
 Conference presentations related to the **wrapt** module:
 
-* http://lanyrd.com/2013/kiwipycon/scpkbk
+* http://lanyrd.com/2013/kiwipycon/scpkbk (link broken!)
 
 Blog Posts
 ----------
